@@ -1,4 +1,4 @@
-# 恒星の内部構造・進化コード 総合ドキュメント (Phase A-F)
+# 恒星の内部構造・進化コード (Phase A-F)
 
 **最終更新**: 2026-07-06 / **主実装**: `stellar_structure_phase6-10.py`,
 `stellar_evolution_phaseF.py`
